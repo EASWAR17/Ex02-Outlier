@@ -42,7 +42,7 @@ Plot the datas using Box Plot.
 Developed by : EASWAR.J
 Registration Number : 212221230024
 
-
+```
 import pandas as ps
 import numpy as np
 import seaborn as sns
@@ -108,7 +108,7 @@ df4.shape
 
 sns.boxplot(x='height',data=df4)
 
-
+```
 # OUTPUT
 
 ### DATASET FOR BHP_CSV
